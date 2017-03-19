@@ -20,7 +20,7 @@ Two Players play against each other on a Xilinx FPGA development board.
 ### End Game:
     The game is won when one player makes the position of the lit LED move off the end ofthe display.
 
-### IDE & Hardware
+## IDE & Hardware
      Developed on: Xilinx ISE
      Programming Language: Verilog
      Tested on: Xilinx Spartan 6
